@@ -1,4 +1,4 @@
-# Dogtective
+# Dogtective Group Project
 
 The main character, a determined dog detective, is on a mission to recover a lost toy.
 The toy has gone missing and Dogtective must dodge the moving cars to find it!
